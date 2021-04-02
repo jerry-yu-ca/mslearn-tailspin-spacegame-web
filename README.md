@@ -1,4 +1,5 @@
 
+[![Build Status](https://dev.azure.com/yu0762/ImplementACodeWorkflowInPipeline/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/yu0762/ImplementACodeWorkflowInPipeline/_build/latest?definitionId=4&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
